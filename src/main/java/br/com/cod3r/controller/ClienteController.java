@@ -1,5 +1,5 @@
 package br.com.cod3r.controller;
-import br.com.cod3r.models.Cliente;
+import br.com.cod3r.model.entities.Cliente;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
